@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.5:1", "", "Gestion de datos de alumnos", "EARoot/EA1/EA1/EA1/EA5/EA67.htm", "175.png", "1041", "0", "", "Logical diagram0","{05917D90-ADF0-4f01-94E8-EA1505D7850F}");
+tocTab[tocTab.length] = new Array("1.1.1.5.1", "1", "Controller", "EARoot/EA1/EA1/EA1/EA5/EA69.htm", "4.png", "", "", "{02A67CD9-F1D3-474a-9BC8-BFB43871E0AB}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.5.2", "1", "Model", "EARoot/EA1/EA1/EA1/EA5/EA70.htm", "4.png", "", "", "{5531B7B6-0E4B-480f-8BE3-E6906B3C438C}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.5.3", "1", "View", "EARoot/EA1/EA1/EA1/EA5/EA71.htm", "4.png", "", "", "{8C07306B-1E31-4e03-ADB6-884D6B64FB79}", "Package");

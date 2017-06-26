@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.4.1:1", "", "Controller", "EARoot/EA1/EA1/EA1/EA4/EA1/EA55.htm", "175.png", "1051", "0", "", "Logical diagram0","{02CE62E8-A5C3-43ca-B20E-ECF8B4A235E6}");
+tocTab[tocTab.length] = new Array("1.1.1.4.1:2", "", "Asistencia", "EARoot/EA1/EA1/EA1/EA4/EA1/EA57.htm", "5.png", "2145", "0", "", "Class0","{93F58D0D-63CD-44fe-8316-C7CCC14F2693}");
+tocTab[tocTab.length] = new Array("1.1.1.4.1:3", "", "Jornada", "EARoot/EA1/EA1/EA1/EA4/EA1/EA58.htm", "5.png", "2146", "0", "", "Class0","{6363978A-614D-4aa3-8DC5-849F2FBE6B38}");
+tocTab[tocTab.length] = new Array("1.1.1.4.1:4", "", "Lector_tarjeta", "EARoot/EA1/EA1/EA1/EA4/EA1/EA59.htm", "5.png", "2147", "0", "", "Class0","{B84C193F-7A26-43e4-BDAE-3077029FDB14}");
