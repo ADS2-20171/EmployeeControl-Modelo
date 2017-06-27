@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("1.1.1.7:1", "", "Model", "EARoot/EA1/EA1/EA1/EA7/EA111.htm", "175.png", "1030", "0", "", "Logical diagram0","{AF347077-3E91-417b-9529-868C6014CCB3}");
+tocTab[tocTab.length] = new Array("1.1.1.7:2", "", "«table» Alumno", "EARoot/EA1/EA1/EA1/EA7/EA113.htm", "28.png", "2085", "0", "", "Class0","{27C1EC9D-857E-4674-91A0-8BF0D494FCDC}");
+tocTab[tocTab.length] = new Array("1.1.1.7:3", "", "«table» Apoderado", "EARoot/EA1/EA1/EA1/EA7/EA114.htm", "28.png", "2086", "0", "", "Class0","{5D8CAC29-B791-4fbb-82EC-62DBFA9B8D90}");
+tocTab[tocTab.length] = new Array("1.1.1.7:4", "", "«table» Asistencia", "EARoot/EA1/EA1/EA1/EA7/EA115.htm", "28.png", "2084", "0", "", "Class0","{E59C877A-0297-4cfb-AB52-8D82AEE5CEC7}");
+tocTab[tocTab.length] = new Array("1.1.1.7:5", "", "«table» Eventos", "EARoot/EA1/EA1/EA1/EA7/EA116.htm", "28.png", "2091", "0", "", "Class0","{909F2A14-3084-4546-8AE9-8D86AC5BF296}");
+tocTab[tocTab.length] = new Array("1.1.1.7:6", "", "«table» Horario", "EARoot/EA1/EA1/EA1/EA7/EA117.htm", "28.png", "2083", "0", "", "Class0","{FD8F3908-55C2-4193-A378-843B2C757ACB}");
+tocTab[tocTab.length] = new Array("1.1.1.7:7", "", "«table» Rol", "EARoot/EA1/EA1/EA1/EA7/EA118.htm", "28.png", "2089", "0", "", "Class0","{F98569C7-20F9-4c6d-86C6-1A54698471D9}");
+tocTab[tocTab.length] = new Array("1.1.1.7:8", "", "«table» Trabajador", "EARoot/EA1/EA1/EA1/EA7/EA119.htm", "28.png", "2150", "0", "", "Class0","{6A120306-0426-4a46-97DD-DC312BE825EC}");
+tocTab[tocTab.length] = new Array("1.1.1.7:9", "", "«table» Trabajador", "EARoot/EA1/EA1/EA1/EA7/EA120.htm", "28.png", "2082", "0", "", "Class0","{0216E2B5-16C8-4b73-87C5-296F078D2953}");
+tocTab[tocTab.length] = new Array("1.1.1.7:10", "", "«table» Users", "EARoot/EA1/EA1/EA1/EA7/EA121.htm", "28.png", "2090", "0", "", "Class0","{44217A86-6C7A-4530-B509-02BCF2F38FA4}");

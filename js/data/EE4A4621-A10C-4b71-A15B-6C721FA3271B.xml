@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.6:1", "", "Gestion de datos del personal", "EARoot/EA1/EA1/EA1/EA6/EA95.htm", "175.png", "1042", "0", "", "Logical diagram0","{2468DF95-A875-4304-9518-03F1872BECEE}");
+tocTab[tocTab.length] = new Array("1.1.1.6.1", "1", "Controller", "EARoot/EA1/EA1/EA1/EA6/EA97.htm", "4.png", "", "", "{9F9B1595-7B17-41db-8EE6-58C2EDC35A78}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.6.2", "1", "Model", "EARoot/EA1/EA1/EA1/EA6/EA98.htm", "4.png", "", "", "{E9C18F37-162E-4a20-BD0B-2FEE9E4CFBB2}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.6.3", "1", "View", "EARoot/EA1/EA1/EA1/EA6/EA99.htm", "4.png", "", "", "{C8C55A28-10B8-4ef4-B6BB-43D11000D904}", "Package");

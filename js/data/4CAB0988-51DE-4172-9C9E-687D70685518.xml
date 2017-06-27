@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.1.1.1.1:1", "", "Controller", "EARoot/EA1/EA1/EA1/EA1/EA1/EA23.htm", "175.png", "1045", "0", "", "Logical diagram0","{A9C308FE-6062-4019-B33B-55355ECDF11E}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1:2", "", "Eventos", "EARoot/EA1/EA1/EA1/EA1/EA1/EA25.htm", "5.png", "2149", "0", "", "Class0","{7E7A7034-EE63-43fa-8207-CEF687D323CA}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1:3", "", "models", "EARoot/EA1/EA1/EA1/EA1/EA1/EA26.htm", "5.png", "2199", "0", "", "Class0","{039F2EBB-3F63-4b71-9C89-5DA420FAF870}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1:4", "", "Modelview", "EARoot/EA1/EA1/EA1/EA1/EA1/EA27.htm", "5.png", "2198", "0", "", "Class0","{BA610575-1028-45dd-880E-5910D556EF05}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1:5", "", "View", "EARoot/EA1/EA1/EA1/EA1/EA1/EA28.htm", "99.png", "2200", "0", "", "UMLDiagram0","{6C21D361-BD75-4355-BA76-223355043C29}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1:6", "", "View", "EARoot/EA1/EA1/EA1/EA1/EA1/EA29.htm", "99.png", "2201", "0", "", "UMLDiagram0","{DF826186-5D70-4286-B96C-BAC325A7B2F8}");

@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.4:1", "", "Gestion de asistencias de trabajadores y alumnos", "EARoot/EA1/EA1/EA1/EA4/EA59.htm", "175.png", "1040", "0", "", "Logical diagram0","{9D009736-0F53-474e-9C41-DBBEC41A3A8F}");
+tocTab[tocTab.length] = new Array("1.1.1.4.1", "1", "Controller", "EARoot/EA1/EA1/EA1/EA4/EA61.htm", "4.png", "", "", "{E01755E6-5E60-46eb-8EAF-11EAFBC34125}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.4.2", "1", "Model", "EARoot/EA1/EA1/EA1/EA4/EA62.htm", "4.png", "", "", "{D91C8666-E38E-460f-BC66-99AE33AE2FA7}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.4.3", "1", "View", "EARoot/EA1/EA1/EA1/EA4/EA63.htm", "4.png", "", "", "{EC3B0ABB-5643-4c25-956A-A5E5F0244DBF}", "Package");
