@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("1.1.1.2:1", "", "Configuracion de horarios", "EARoot/EA1/EA1/EA1/EA2/EA33.htm", "175.png", "1039", "0", "", "Logical diagram0","{AECC5C40-8A61-4846-B326-147C7A050489}");
-tocTab[tocTab.length] = new Array("1.1.1.2.1", "1", "Controller", "EARoot/EA1/EA1/EA1/EA2/EA35.htm", "4.png", "", "", "{0E3FAF02-997E-45db-A185-1D5B155A6BCF}", "Package");
-tocTab[tocTab.length] = new Array("1.1.1.2.2", "1", "Model", "EARoot/EA1/EA1/EA1/EA2/EA36.htm", "4.png", "", "", "{8D54F776-C72A-48e9-912A-5507847358B3}", "Package");
-tocTab[tocTab.length] = new Array("1.1.1.2.3", "1", "View", "EARoot/EA1/EA1/EA1/EA2/EA37.htm", "4.png", "", "", "{F2E230B2-8DA1-4eca-A7CA-AC04ECBF407D}", "Package");
